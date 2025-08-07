@@ -4,7 +4,7 @@ This repository contains the interactive **Sales Dashboard** built using Power B
 
 ---
 
-## ✅ Project Objective
+## ✅ Task Objective
 
 To analyze and visualize key sales data using Power BI, including KPIs like total sales, profit, profit margin, and orders. The dashboard enables interactive insights using slicers and visual elements.
 
